@@ -1,0 +1,26 @@
+body {
+  background: #f8f9fa;
+}
+.card-header.bg-primary {
+  background-color: #0074d9 !important;
+}
+.card {
+  border-radius: 0.5rem;
+}
+.list-group-item {
+  font-size: 0.98rem;
+}
+header img {
+  border-radius: 50%;
+  border: 2px solid #eee;
+}
+header h3 {
+  font-size: 1.4rem;
+}
+nav .nav-link.active {
+  background: #0074d9;
+  color: #fff !important;
+}
+nav .nav-link {
+  color: #0074d9;
+} 
